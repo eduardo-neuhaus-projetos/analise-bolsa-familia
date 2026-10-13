@@ -40,7 +40,7 @@ O dashboard está publicado e pode ser acessado publicamente em:
 ### Filtros por UF e Município
 ![Filtros](screenshots/screen2.png)
 
-### Tabela com Dois Modos de Exibição
+### Filtros por UF e Município
 ![Tabela](screenshots/screen3.png)
 
 ---
