@@ -32,6 +32,19 @@ O dashboard está publicado e pode ser acessado publicamente em:
 
 ---
 
+## 📸 Screenshots
+
+### Visão Geral do Dashboard
+![Visão Geral](screenshots/screen1.png)
+
+### Filtros por UF e Município
+![Filtros](screenshots/screen2.png)
+
+### Tabela com Dois Modos de Exibição
+![Tabela](screenshots/screen3.png)
+
+---
+
 ## ✨ Funcionalidades
 
 - 🔎 **Filtros** por UF e Município
