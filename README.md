@@ -28,7 +28,7 @@ valores médios por beneficiário.
 
 O dashboard está publicado e pode ser acessado publicamente em:
 
-🔗 **[analise-bolsa-familia.streamlit.app](https://analise-bolsa-familia.streamlit.app)** _(substitua com sua URL)_
+🔗 **[analise-bolsa-familia.streamlit.app]([https://analise-bolsa-familia.streamlit.app](https://eduardo-neuhaus-projetos-analise-bolsa-familia-app-bf-eywdiq.streamlit.app/))**
 
 ---
 
