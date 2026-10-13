@@ -1,4 +1,4 @@
-<img width="1920" height="1081" alt="image" src="https://github.com/user-attachments/assets/d14a999e-0690-48f3-9f2a-38cd110c5465" /># 📊 Análise do Bolsa Família por Município e UF
+# 📊 Análise do Bolsa Família por Município e UF
 
 Dashboard interativo da distribuição do Bolsa Família por município e UF, 
 utilizando dados oficiais do Governo Federal e do IBGE.
